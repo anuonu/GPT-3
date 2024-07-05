@@ -1,7 +1,7 @@
 # GPT3 Website
 
 #### Live Project🎉
-- [**Vercel** - https://openai-gpt3.vercel.app](https://nkilm.github.io/openai-gpt3/)
+- [**Vercel** - https://openai-gpt3.vercel.app/]
 
 ## Usage
 
